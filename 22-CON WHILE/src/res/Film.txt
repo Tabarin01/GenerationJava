@@ -1,0 +1,25 @@
+Shining
+Thriller
+120
+1980
+true
+Il Padrino
+Drammatico
+175
+1972
+true
+Via col Vento
+Romantico
+220
+1939
+false
+Cuore Selvaggio
+Commedia
+95
+2023
+false
+Il Signore degli Anelli
+Azione
+220
+2001
+false

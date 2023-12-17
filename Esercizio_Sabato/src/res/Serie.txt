@@ -1,0 +1,9 @@
+8
+Lost,thriller,6,20
+Fringe,Fantascientifico,5,19
+X Files,thriller,11,22
+Game of thrones,fantasy,11,10
+Person of Interest,thriller,5,20
+The Mentalist,thriller,7,22
+Game of thrones,fantasy,11,10
+The Mentalist,thriller,7,22

@@ -1,0 +1,25 @@
+GTA VI
+PS5
+18
+2
+true
+Horizon
+PC
+16
+4
+false
+Super Mario
+Nintendo
+12
+1
+true
+The last of Us
+PS5
+18
+2
+false
+Halo
+PC
+16
+4
+true

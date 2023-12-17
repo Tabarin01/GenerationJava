@@ -1,0 +1,36 @@
+Van Halen
+10
+5
+100
+Speeding Fingers
+true
+Richard Benson
+8
+4
+90
+
+false
+Steve Lukather
+12
+10
+120
+LethalRiff
+false
+Jimi Hendrix
+15
+10
+150
+
+true
+Eric Clapton
+6
+3
+80
+PowerCord
+true
+Slash
+3
+5
+90
+
+false
