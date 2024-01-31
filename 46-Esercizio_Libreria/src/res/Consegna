@@ -1,0 +1,23 @@
+CONSEGNA 31/01 - Da Consegnare entro le 18.00 (anche incompleta va bene)
+
+Dovete progettare un gestionale di una libreria.
+Come dati avrete le informazioni dei libri e degli autori
+ id,titolo,genere,numero_pagine,casa_editrice,prezzo,idAutore
+ id,nome,cognome,dob,nazionalita,biografia
+Dovrete usare una struttura simile a quella dell'esercizio di ieri, sto giro però voglio vedere l'autore dentro al libro.
+Il vostro programma dovrà permettere le seguenti operazioni:
+ 
+-lista completa dei libri presenti nel DB
+-inserimento di un nuovo libro
+-modifica di un libro
+-eliminazione di un libro
+-lista completa degli autori
+-modifica di un autore
+-eliminazione di un autore
+-inserimento di un autore
+-ricerca di un libro in base al titolo
+-ricerca di una serie di libri in base al genere
+-ricerca di un autore in base al suo nominativo (potete cercare solo il nome, solo il cognome o entrambi)
+-l'elenco dei libri ordinati per prezzo, dal più caro al meno caro
+-l'elenco delle casa editrici con il numero di libri posseduti
+-il nominativo di ogni autore e il numero di libri che ha pubblicato
