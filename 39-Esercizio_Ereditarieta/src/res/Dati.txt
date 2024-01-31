@@ -1,0 +1,9 @@
+tram,1,5,50,50,s,s
+metro,A,8,200,300,n,s
+autobus,42,8,20,s,s
+tram,2,4,40,30,s,n
+metro,B,7,150,200,s,s
+autobus,73,8,20,s,s
+tram,B,5,50,40,s,s
+metro,C,10,250,400,n,s
+autobus,21,5,10,s,s

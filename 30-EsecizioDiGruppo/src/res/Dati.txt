@@ -1,0 +1,10 @@
+Tostapane Elettrico;10;39.99;5;Manico-Abrasivo;Argento
+Pentole antiaderenti;5;89.99;8;Manico-Targhetta;Nero
+Aspirapolvere senza sacco;8;149.99;10;Filtro;Rosso-Verde
+Ferro da Stiro a Vapore;15;149.99;10;Piastra-Velcro-Furry;Bianco-Blu
+Posate in Acciaio Inossidabile;20;69.99;8;Forchetta-Cucchiaio-Coltello;Argento
+Lampada da Tavolo a LED;12;29.99;5;Base-Lampadina-Castoro;Nero-Giallo
+Bilancia da Cucina Elettronica;18;19.99;5;Display;Bianco
+Scopa elettrica ricaricabile;7;79.99;10;Batteria al litio;Verde
+Contenitori per Conservare Alimenti;25;29.99;8;Materiale plastico;Trasparente
+Microonde;6;129.99;10;Piatto girevole in vetro;Acciaio

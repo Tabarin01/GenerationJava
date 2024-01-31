@@ -1,0 +1,16 @@
+10,5
+paziente,Marco,Rossi,15-04-1980,Milano,Influenza,Medicina Generale,s,10
+paziente,Luca,Bianchi,22-07-1995,Roma,Raffreddore,Pneumologia,n,5
+paziente,Sara,Verdi,10-12-1972,Torino,Diabete,Endocrinologia,s,6
+paziente,Anna,Neri,05-09-1988,Napoli,Ipertensione,Psichiatria,n,8
+paziente,Giovanni,Russo,20-03-1990,Firenze,Raffreddore,Microbiologia,s,20
+paziente,Chiara,Moretti,18-06-1985,Bologna,Artrite,Reumatologia,n,12
+paziente,Lorenzo,Romano,02-11-1978,Venezia,Emicrania,Neurologia,s,7
+paziente,Marta,Gallo,12-08-2000,Milano,Raffreddore,Dermatologia,n,3
+paziente,Roberto,Ferrari,25-01-1965,Torino,Obesità,Nutrizione,s,25
+paziente,Elena,Marini,08-04-1992,Roma,Mal di gola,Psichiatria,s,90
+medico,Giuseppe,Rossi,15-06-1970,Milano,Dermatologia,18,150,5
+medico,Laura,Bianchi,20-03-1985,Roma,Psichiatria,12,80,3
+medico,Mario,Verdi,10-12-1965,Torino,Neurologia,25,200,8
+medico,Alessia,Neri,05-09-1978,Napoli,Endocrinologia,25,2,50
+medico,Marta,Gallo,20-05-1980,Firenze,Nefrologia,15,20,6

@@ -1,0 +1,25 @@
+1,Il Signore degli Anelli,Fantasy,201
+2,Inception,Thriller,148
+3,La La Land,Romantico-Musical,128
+4,Forrest Gump,Commedia-Drammatico,142
+5,Interstellar,Avventura-SciFi,169
+6,Harry Potter e la Pietra Filosofale,Fantasy,152
+7,Il Padrino,Crimine-Drammatico,278
+8,Titanic,Romantico-Storico,195
+9,Il Gladiatore,Drammatico-Storico,278
+10,Pulp Fiction,Thriller-Crimine,154
+11,La Vita è Bella,Commedia-Drammatico-Guerra,116
+12,Il Re Leone,Animazione-Avventura-Drammatico,88
+13,Matrix,Azione-SciFi,136
+14,Il Cigno Nero,Drammatico-Mistero-Psicologico,108
+15,L'Ultimo Samurai,Azione-Drammatico-Storico,154
+16,Fight Club,Thriller-Drammatico,139
+17,La Passione di Cristo,Drammatico-Biografico-Religioso,126
+18,Inception,Thriller-Azione,148
+19,Lo Hobbit: Un Viaggio Inaspettato,Avventura-Fantasy,169
+20,Jurassic Park,Avventura-SciFi,128
+21,Lord of War,Azione-Crimine-Drammatico,122
+22,Il Pianista,Storico-Guerra-Drammatico-Biografico,150
+23,La Bella e la Bestia,Fantasia-Romantico-Musical,129
+24,Forrest Gump,Commedia-Drammatico-Romantico,142
+25,Braveheart,Azione-Biografico-Drammatico-Guerra,177

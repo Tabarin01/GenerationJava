@@ -1,0 +1,4 @@
+3
+Pino;Pane;25-09-1978;Milano;Spazzino;3;1250
+Giulio;Cesare;15-03-1980;Milano;Politico;2;3500
+Anna;Maria;28-09-1970;Brescia;Medico;3;2450

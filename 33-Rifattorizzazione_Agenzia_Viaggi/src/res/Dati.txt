@@ -1,0 +1,8 @@
+7
+Dubai;aereo;15;100;5
+Italia;Aereo;7;100;2
+Londra;Treno;10;80;4
+New York;Auto;14;70;3
+Dubai;Nave;12;120;5
+Miami;Aereo;8;110;2
+Tokyo;Autobus;20;200;5

@@ -1,0 +1,7 @@
+6
+Mario;Rossi;20-02-1985;Este;Ingegnere;2;1200.0
+Ada;Bianchi;15-07-1990;Firenze;Medico;1;1100.0
+Giovanni;Verdi;05-11-1982;Roma;Avvocato;0;1000.0
+Anna;Neri;10-04-1995;Milano;Insegnante;3;1000.0
+Otto;Marroni;28-09-1978;Torino;Architetto;2;1000.0
+Luca;Marroni;28-09-1960;Este;Architetto;2;1200.0

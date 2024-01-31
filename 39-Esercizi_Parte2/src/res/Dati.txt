@@ -1,0 +1,12 @@
+film,The Shawshank Redemption,142,Frank Darabont,n
+serietv,Stranger Things,50,3,8,s
+film,Inception,148,Christopher Nolan,n
+serietv,Game of Thrones,60,8,10,n
+film,Titanic,195,James Cameron,s
+serietv,Breaking Bad,45,5,13,s
+film,Pulp Fiction,154,Quentin Tarantino,n
+serietv,The Mandalorian,30,2,8,n
+film,The Dark Knight,152,Christopher Nolan,n
+serietv,The Witcher,60,2,8,n
+film,Forrest Gump,142,Robert Zemeckis,n
+serietv,The Crown,55,4,10,s

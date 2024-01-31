@@ -1,0 +1,57 @@
+EREDITARIETA'
+
+è uno dei tre principi della programmazione a oggetti(chiamata anche programmazione OOP)
+
+Si basa sull'idea che anche le nostre classi possano "ereditare" qualcosa(proprietà e/o metodi) da qualcuno.
+In programmazione, si crea un sistema simile a quello della vita di tutti i giorni: le generazioni giovani
+ereditano dalle generazioni vecchie.
+
+Concettualmente tra le nostre classi si creerà una sorta di piccolo albero genealogico, che determinerà
+chi è imparentato con chi e chi eredita cosa.
+
+In Java esiste un progenitore comune a tutti, che si chiama Object.
+
+Quando due classi sono imparentate tra loro si usano solo due termini per riconoscere il loro grado
+di parentela: PADRE, FIGLIO.
+
+Nel caso della classe Object si dice che Object è padre di tutte le classi di Java.
+
+Quando si parla di ereditarietà proprietà o metodi, significa che le classi figlie avranno integrate già tutte le proprietà e i metodi visibili del padre.
+
+Solitamente le classi imparentate sono una l'evoluzione o la specifica dell'altra.
+
+Gli schemi sotto sono dei piccoli esempi di alberi genealogici.
+Si leggono dall'alto verso il basso, quindi il primo esempio si legge così:
+  		"Object è padre di Persona, che è padre di medico, militare e politico. Medico è padre di Base e Chirurgo
+  		
+Ma le famiglie in programmazione sono disfunzionali, perchè i padri non conoscono i figli, i fratelli, non si parlanoç
+solo i figli sanno chi è il loro padre
+
+Ogni padre potrà avere tanti figli, ma ogni figlio ha UNO e UN SOLO PADRE.
+
+Di conseguenza, per sapere cosa compone un figlio, dobbiamo leggere l'albero al contrario, cioè dal basso verso l'alto
+senza mai deviare nei livelli di pari livello o inferiore a dove partiamo a leggere.
+Cioè Base conosce solo Medico, che conosce solo Persona, che conosce solo Object.
+
+
+			
+		         SCHEMA 1														SCHEMA 2
+	
+						Object															Veicolo	
+						  |																   |
+						Persona														---------------
+						  |															|			  |
+						---------------------									Con_Motore     Senza_Motore
+						|			|		|														|
+					Medico	     Militare   Politico										-------------------
+					   |																	|                  |
+					-------																Bicicletta			Carrozza	
+					|	   |
+				  Base   Chirurgo
+				  
+				  
+A livello di codice, per indicare che una classe è figlia di un'altra, si mette la parola EXTENDS (estende)
+accanto al nome della classe
+
+(Esempio            public class Medico extends Persona)				  
+				 
