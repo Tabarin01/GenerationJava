@@ -80,31 +80,31 @@ public class DAOAutore extends DAO
 	
 	
 	
-//	public List<Autore> cercaAutore(String nome, String cognome) {
-//	    List<Autore> autori = new ArrayList<>();
-//	    String query = "SELECT * FROM Autori WHERE ";
-//	    if (nome != null && !nome.isEmpty()) {
-//	        query += "nome LIKE \"%" + nome + "%\"";
-//	        if (cognome != null && !cognome.isEmpty()) {
-//	            query += " AND ";
-//	        }
-//	    }
-//	    if (cognome != null && !cognome.isEmpty()) {
-//	        query += "cognome LIKE \"%" + cognome + "%\"";
-//	    }
-//	    
-//	    List<Map<String, String>> righe = super.read(query);
-//	    for (Map<String, String> riga : righe) {
-//	        IFactory factory = Factory.createObject("Autore");
-//	        Autore autore = new Autore();
-//	        factory.create(riga);
-//	        if (factory instanceof Autore) {
-//	            autore = (Autore) factory;
-//	            autori.add(autore);
-//	        }
-//	    }
-//	    return autori;
-//	}
+	public List<Autore> cercaAutore(String nome, String cognome) {
+	    List<Autore> autori = new ArrayList<>();
+	    String query = "SELECT * FROM Autori WHERE ";
+	    if (nome != null && !nome.isEmpty()) {
+	        query += "nome LIKE \"%" + nome + "%\"";
+	        if (cognome != null && !cognome.isEmpty()) {
+	            query += " AND ";
+	        }
+	    }
+	    if (cognome != null && !cognome.isEmpty()) {
+	        query += "cognome LIKE \"%" + cognome + "%\"";
+	    }
+	    
+	    List<Map<String, String>> righe = super.read(query);
+	    for (Map<String, String> riga : righe) {
+	        IFactory factory = Factory.createObject("Autore");
+	        Autore autore = new Autore();
+	        factory.create(riga);
+	        if (factory instanceof Autore) {
+	            autore = (Autore) factory;
+	            autori.add(autore);
+	        }
+	    }
+	    return autori;
+	}
 	
 	public Map<String, Integer> libriAutore() {
 	    Map<String, Integer> autoriConNumeroLibri = new LinkedHashMap<>();
