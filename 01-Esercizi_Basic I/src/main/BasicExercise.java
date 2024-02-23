@@ -15,9 +15,17 @@ public class BasicExercise {
 		//exercise11(input);
 		//exercise15();
 		//exercise17(input);
-		//exercise19(input);
+		exercise19(input);
+        exercise();
 
-
+	}
+	
+	public static void exercise() 
+	{
+		String res = "";
+		int number = 2;
+		
+		 
 	}
 
 	public static void exercise19(Scanner input) {

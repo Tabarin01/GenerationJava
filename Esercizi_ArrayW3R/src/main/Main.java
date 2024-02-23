@@ -23,7 +23,11 @@ public class Main {
 			case 1:
 				exercise1();
 				break;
-
+			case 2:
+				String romanNumeral = "MCMXCIV";
+		        int integerValue = romanToInt(romanNumeral);
+		        System.out.println(integerValue);  // Output: 1954
+		        break;
 
 			default:
 				System.out.println("Invalid choice. Please enter a valid option.");
@@ -83,8 +87,33 @@ public class Main {
 		System.out.println("Sorted string array: "+ Arrays.toString(arrayS));
 	}
 
-	public static void exercise2() {
+	public static int romanToInt(String s) {
+		int result = 0;
+		int prevValue = 0;
+		for (int i = s.length() - 1; i >= 0; i--) {
+            char romanChar = s.charAt(i);
+            int value;
 
-	}
+            switch (romanChar) {
+                case 'I': value = 1; break;
+                case 'V': value = 5; break;
+                case 'X': value = 10; break;
+                case 'L': value = 50; break;
+                case 'C': value = 100; break;
+                case 'D': value = 500; break;
+                case 'M': value = 1000; break;
+                default: value = 0;
+            }
+
+            result += value < prevValue ? -value : value;
+            prevValue = value;
+        }
+
+        return result;
+    }
+
+   
+
+    
 
 }
